@@ -1,6 +1,6 @@
 # Libft
 
-This repository contains my implementation of **Libft**, a personal library of standard C functions and custom utility functions, developed as part of the [42](https://www.42.fr/) curriculum.
+This repository contains my implementation of **Libft**, a personal library of standard C functions and custom utility functions, developed during my journey at [42](https://www.42.fr/).
 
 ![Score: 125%](https://img.shields.io/badge/Score-125%25-green?style=flat&logo=42)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)

@@ -8,7 +8,7 @@ Each folder in this repository represents a different project I worked on at 42.
 
 ### Projects
 
-- **[Libft](https://github.com/yoyoazs/42-projects/tree/main/Libft/README.md)**: A library implementation with common functions in C.
+- **[Libft](https://github.com/yoyoazs/42-projects/tree/main/Libft)**: A library implementation with common functions in C.
 - **[Get Next Line](https://github.com/yoyoazs/42-projects/tree/main/get_next_line)**: Implementing a function that reads a line from a file descriptor.
 
 More projects will be added as I progress through the curriculum.
