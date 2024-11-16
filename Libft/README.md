@@ -88,6 +88,7 @@ In addition to the mandatory functions required by the 42 curriculum, I have imp
 - **`ft_rand`**: A simple random number generator function for testing purposes.
 
 These enhancements provide extra features that I personally find useful for various projects.
-## License
 
-This repository is a personal collection of my work from 42. It is not meant for commercial use. All code is available under the [LICENSE](../LICENSE).
+## Authors
+
+- **yoyoazs** - [GitHub](https://github.com/yoyoazs)
