@@ -1,6 +1,6 @@
 # So Long
 
-This repository contains my implementation of **So Long**, a 2D game where the player navigates a map, collects items, and avoids enemies. This project was completed as part of the [42](https://www.42.fr/) curriculum. The primary goal is to build a functional game with basic mechanics like movement, item collection, enemy interactions, multithreading for performance, and dynamic map scrolling when the map exceeds the window size.
+This repository contains my implementation of **So Long**, a 2D game where the player navigates a map, collects items, and avoids enemies. This project was completed as part of the [42](https://www.42.fr/) curriculum. The primary goal is to build a functional game with basic mechanics like movement, item collection, enemy interactions.
 
 ![Score: 125%](https://img.shields.io/badge/Score-125%25-green?style=flat&logo=42)
 ![C](https://img.shields.io/badge/language-C-blue)
