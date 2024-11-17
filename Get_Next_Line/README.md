@@ -2,6 +2,11 @@
 
 This repository contains my implementation of the **Get Next Line** (GNL) project, completed as part of the [42](https://www.42.fr/) curriculum. The objective of this project is to create a function that reads a line from a file descriptor, making it easier to handle reading data in chunks from files.
 
+![Score: 125%](https://img.shields.io/badge/Score-125%25-green?style=flat&logo=42)
+![C](https://img.shields.io/badge/language-C-blue)
+![Stars](https://img.shields.io/github/stars/yoyoazs/42-projects?style=social)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue)
+
 ## Project Description
 
 The **Get Next Line** function allows the user to read a line from a file descriptor, including from files, stdin, or any other type of file descriptor. The function ensures that each line is read correctly and returns a pointer to the line.
