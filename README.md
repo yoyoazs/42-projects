@@ -10,6 +10,12 @@ Each folder in this repository represents a different project I worked on at 42.
 
 - **[Libft](https://github.com/yoyoazs/42-projects/tree/main/Libft)**: A library implementation with common functions in C.
 - **[Get Next Line](https://github.com/yoyoazs/42-projects/tree/main/get_next_line)**: Implementing a function that reads a line from a file descriptor.
+- **[Push Swap](https://github.com/yoyoazs/42-projects/tree/main/push_swap)**: Sorting project involving two stacks with a limited set of instructions.
+- **[Philosophers](https://github.com/yoyoazs/42-projects/tree/main/philosophers)**: A simulation of the Dining Philosophers problem using multithreading.
+- **[Minishell](https://github.com/yoyoazs/42-projects/tree/main/minishell)**: A custom shell implementation, with features like piping, redirection, environment variables, and process management.
+- **[Minitalk](https://github.com/yoyoazs/42-projects/tree/main/minitalk)**: A simple program for communication between processes using Unix signals.
+- **[Printf](https://github.com/yoyoazs/42-projects/tree/main/printf)**: A custom implementation of the `printf` function for formatted output in C.
+
 
 More projects will be added as I progress through the curriculum.
 
